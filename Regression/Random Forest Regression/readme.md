@@ -1,5 +1,5 @@
+<h1 align='center'>Random Forest Regression</h1>
 
-<h1 align='center'># All methods de create Random Forest Regression</h1>
-
-### La description de la regresion
+### Qu'est-ce que c'est ?
+### La diferance
 
